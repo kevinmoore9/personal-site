@@ -1601,3 +1601,8 @@
 		#about-img {
 			width: 200px;
 		}
+
+		h2.project-header {
+			font-size: 1.3rem;
+			letter-spacing: 0.4rem;
+		}
