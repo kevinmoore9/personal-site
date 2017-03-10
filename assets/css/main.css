@@ -1598,8 +1598,8 @@
 			opacity: 0;
 		}
 
-		#resume-img {
-			width: 200px;
+		#resume-div {
+			margin: 0 2rem 2rem 0;
 		}
 
 		h2.project-header {
@@ -1618,4 +1618,12 @@
 
 		#resume.active {
 			width: 50rem;
+		}
+
+		div.about-div {
+			display: flex;
+		}
+
+		#resume-img {
+			width: 200px;
 		}
