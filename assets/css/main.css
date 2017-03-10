@@ -1598,11 +1598,15 @@
 			opacity: 0;
 		}
 
-		#about-img {
+		#resume-img {
 			width: 200px;
 		}
 
 		h2.project-header {
 			font-size: 1.3rem;
 			letter-spacing: 0.4rem;
+		}
+
+		p.project-overview {
+			margin: 0 0 0.5rem 0;
 		}
