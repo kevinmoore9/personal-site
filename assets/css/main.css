@@ -1610,3 +1610,12 @@
 		p.project-overview {
 			margin: 0 0 0.5rem 0;
 		}
+
+		img.resume {
+			width: 100%;
+
+		}
+
+		#resume.active {
+			width: 50rem;
+		}
