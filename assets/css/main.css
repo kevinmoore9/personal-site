@@ -1627,3 +1627,8 @@
 		#resume-img {
 			width: 200px;
 		}
+
+		header#header {
+			position: relative;
+			bottom: 150px;
+		}
